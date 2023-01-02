@@ -1,0 +1,7 @@
+body{
+    background: rgba(255, 213, 0, 0.9);
+    font-family: 'Cinzel', serif;
+}
+.jumbotron{
+    background: rgba(255, 213, 0, 0.1);
+}
