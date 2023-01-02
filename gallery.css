@@ -1,0 +1,30 @@
+body{
+    background: rgba(0, 100, 200, 0.5);
+    font-family: 'Grandstander', cursive;
+}
+img{
+    float: left;
+    width: 30%;
+    /*padding-left: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 2px;
+    border: 6px solid lightcoral;*/
+    margin: 1%;
+}
+p{
+    font-family: 'Calligraffitti', cursive;
+    font-size: 250%;
+    font-weight: 800;
+    margin-left: 1%;
+    margin-top: 6px;
+    border-bottom: 10px solid rgb(242, 220, 55);
+    border-top: 10px solid rgb(242, 220, 55);
+    padding-bottom: 1%;
+    padding-top: 1%;
+    width: 15%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 30px;
+}
