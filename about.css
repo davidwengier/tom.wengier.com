@@ -6,7 +6,7 @@ primaraly there are 3 selectors you can use*/
 /*Type One Of Selectors; Using The Element Name*/
 
 body {
-    background: rgb(0, 100, 200);
+    background: rgba(0, 100, 200, 0.6);
  color: rgb(173, 227, 236);
     font-family: 'Kalam', cursive;
     border: 10px solid whitesmoke;
