@@ -94,3 +94,7 @@ hr:before { /* Not really supposed to work, but does */
 #no{
     font-family: 'Poppins', sans-serif;
 }
+
+p{
+    color: black;
+}
